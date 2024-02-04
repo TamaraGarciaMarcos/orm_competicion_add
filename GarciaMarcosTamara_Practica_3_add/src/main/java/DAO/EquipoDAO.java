@@ -1,5 +1,8 @@
 package DAO;
-
+/**
+ * Esta clase se encarga de simular la implementacion del DAO en la clase Equipo * 
+ * @author Tamara Garcia Marcos
+ */
 import java.util.List;
 
 import org.apache.logging.log4j.Logger;

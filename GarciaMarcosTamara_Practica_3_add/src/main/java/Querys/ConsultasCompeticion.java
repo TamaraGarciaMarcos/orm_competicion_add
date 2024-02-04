@@ -1,5 +1,10 @@
 package Querys;
+/**
+ * Esta clase se encarga de crear las consultas necesarias en la simulacion de la competicion
 
+ * 
+ * @author Tamara Garcia Marcos
+ */
 import java.util.List;
 
 import org.apache.logging.log4j.Logger;
@@ -22,8 +27,7 @@ public class ConsultasCompeticion {
 	private EntityManager em;
 
 	public void consulta1() {
-		System.out.println(
-				"Consulta 1. Utiliza una consulta nativa(NativeQuery) para obtener las características de la competición.");
+		System.out.println("Consulta 1. Utiliza una consulta nativa(NativeQuery) para obtener las características de la competición.");
 		String sql = "SELECT * FROM Competition";
 		List<Competicion> competiciones = em.createNativeQuery(sql, Competicion.class).getResultList();
 		System.out.println(competiciones);

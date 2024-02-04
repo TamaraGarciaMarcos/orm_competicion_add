@@ -1,11 +1,11 @@
 package Modelo;
 /**
  * Esta clase se encarga de simular un patrocinador de la competicion
+
  * 
  * @author Tamara Garcia Marcos
  */
 import java.util.List;
-
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

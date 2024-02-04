@@ -1,5 +1,10 @@
 package Datos;
+/**
+ * Esta clase se encarga de almacenar los datos de los patrocinadores
 
+ * 
+ * @author Tamara Garcia Marcos
+ */
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

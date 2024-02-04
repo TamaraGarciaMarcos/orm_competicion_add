@@ -1,6 +1,10 @@
 package Modelo;
-import jakarta.persistence.Column;
+/**
+ * Esta clase se encarga de simular un jugador de la competicion
 
+ * @author Tamara Garcia Marcos
+ */
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

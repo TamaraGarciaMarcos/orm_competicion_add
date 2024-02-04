@@ -1,5 +1,11 @@
 package Datos;
 
+/**
+ * Esta clase se encarga de almacenar los datos de los Entrenadores
+
+ * 
+ * @author Tamara Garcia Marcos
+ */
 import java.util.ArrayList;
 
 import org.apache.logging.log4j.Logger;

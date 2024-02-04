@@ -52,7 +52,7 @@ public class Main {
             equipoDAO.insert(equipo);
         }
         
-     // Obtener la lista de patrocinadores desde DatosPatrocinadores
+        // Obtener la lista de patrocinadores desde DatosPatrocinadores
         List<Patrocinador> patrocinadores = (List<Patrocinador>) datosPatrocinadores.getPatrocinadores();
 
         // Insertar cada patrocinador en la base de datos

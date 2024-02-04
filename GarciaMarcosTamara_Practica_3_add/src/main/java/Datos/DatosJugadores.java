@@ -1,8 +1,13 @@
 
 package Datos;
 
-import java.util.ArrayList;
+/**
+ * Esta clase se encarga de almacenar los datos de los jugadores
 
+ * 
+ * @author Tamara Garcia Marcos
+ */
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

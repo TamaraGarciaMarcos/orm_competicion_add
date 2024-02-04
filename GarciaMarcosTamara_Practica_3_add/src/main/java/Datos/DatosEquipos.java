@@ -1,5 +1,9 @@
 package Datos;
-
+/**
+ * Esta clase se encarga de almacenar los datos de los equipos
+ * 
+ * @author Tamara Garcia Marcos
+ */
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

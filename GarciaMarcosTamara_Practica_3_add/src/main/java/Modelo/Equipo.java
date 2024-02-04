@@ -1,6 +1,7 @@
 package Modelo;
 /**
  * Esta clase se encarga de simular a un equipo de la competicion
+
  * 
  * @author Tamara Garcia Marcos
  */

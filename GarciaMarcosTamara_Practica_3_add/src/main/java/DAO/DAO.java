@@ -1,6 +1,7 @@
 package DAO;
 /**
  * Esta interfaz corresponde al patrón DAO que se va a implementar
+
  * 
  * @author Tamara Garcia Marcos
  */
